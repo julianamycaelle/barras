@@ -1,0 +1,18 @@
+/**Formatação de barras vertical**/
+ul{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+ul a{
+    width: 200px;
+    height: 90px;
+    background:yellow;
+    font-size: 20px;
+    text-decoration: none;
+    display:block;
+}
+
+li{
+    margin:10px;
+}
